@@ -1,6 +1,9 @@
 # Generic_Code_Obfuscator
 Generic_Code_Obfuscator in PHP using Jarir's Odd Even Algorithm.
 
+# Uses: 
+Supports all languages.
+
 # Jarir's Odd Even Algorithm:
 
 # Obfuscation:
