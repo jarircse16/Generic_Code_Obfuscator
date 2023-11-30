@@ -1,5 +1,5 @@
 # Generic_Code_Obfuscator
-Generic_Code_Obfuscator in PHP using Jarir's Odd Even Algorithm. 
+Generic_Code_Obfuscator in PHP using Jarir's Odd Even Algorithm.
 
 # Jarir's Odd Even Algorithm:
 
